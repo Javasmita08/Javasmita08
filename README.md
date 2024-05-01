@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Javasmita08
-- 👀 I’m interested in data science and data analysis
-- 🌱 I’m currently learning pre-requisites or data science and data analysis
-- 💞️ I’m looking to collaborate on projects on SQL
+- 👋 Hi, I’m Asmita
+- 👀 I’m interested in Quantum Computing and AI
+- 🌱 I’m currently learning pre-requisites of data science 
+- 💞️ I’m looking to collaborate on projects on Quantum Computing
 - 📫 How to reach me asmitambwa@gmail.com
 
 <!---
